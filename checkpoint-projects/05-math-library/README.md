@@ -20,13 +20,13 @@ implemented. Here's the pseudocode for the function signatures:
 #### `clamp`
 
 ```js
-// Clamps restricts `value` to the range [min, max]
+// Clamps restricts `value` to the range `[min, max]`
 // If `value` is less than `min`, `min` is returned.
 // If the `value` is greater than `max`, `max` is returned.
 // Otherwise, `value` itself is returned
 //
 // `min` must always be less than `max` and the function
-// should raise an error is this condition is violated.
+// should raise an error if this condition is violated.
 function clamp(value: int, min: int, max: int): int | error
 ```
 
