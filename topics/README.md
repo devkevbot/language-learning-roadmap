@@ -9,6 +9,7 @@ The following is a list of programming topics split roughly into three categorie
 - Control flow
 - Functions
 - String manipulation
+- String formatting
 - Arrays, slices, maps
 
 ## Intermediate
@@ -25,12 +26,12 @@ The following is a list of programming topics split roughly into three categorie
 - Sorting
 - Random numbers
 - Testing
-- String formatting
 - Package management
 
 ## Advanced
 
 - Standard library usage
+- Async
 - Threads
 - Channels
 - Foreign function interface
