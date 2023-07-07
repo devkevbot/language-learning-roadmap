@@ -10,28 +10,32 @@ The following is a list of programming topics split roughly into three categorie
 - Functions
 - String manipulation
 - String formatting
-- Arrays, slices, maps
+- Pointers
+- Arrays, slices, vectors
+- Maps
+- Sets
+- Standard I/O (`stdin`, `stdout`, `stderr`)
 
 ## Intermediate
 
-- Pointers
-- Error handling
-- Readers and writers
-- Standard I/O (`stdin`, `stdout`, `stderr`)
-- File I/O
-- JSON
-- Structs and classes
-- Enums
 - Iterators
 - Sorting
 - Random numbers
+- Error handling
+- Readers and writers
+- File I/O
+- JSON
+- Structs
+- Classes
+- Interfaces
+- Custom types
+- Enums
 - Testing
 - Package management
+- Standard library usage
 
 ## Advanced
-
-- Standard library usage
 - Async
-- Threads
+- Multithreading
 - Channels
 - Foreign function interface
