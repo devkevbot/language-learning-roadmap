@@ -2,18 +2,82 @@
 
 The following is a list of general programming topics. Your chosen language may not have support for a specific topic.
 
-- Variables and data types 
+- Variables and data types
+  - Integers: signed, unsigned, hex, binary, octal, numeric separator (_)
+  - Float: floats, doubles, scientific notation
+  - Booleans
+  - Characters
+  - Strings
+  - Arrays: init, get, set
+  - Maps: init, get, set
+  - Constants
+  - Pointers and references
 - Operators
+  - Arithmetic
+  - Unary: prefix, postfix, negation
+  - Conditional
+  - Comparison: truthy and falsey
+  - Bitwise
 - Control flow
+  - If-then-else
+  - Loops: for, while, do-while, unless, break, continue
+  - Switch: case, fallthrough, default
+  - Defer
+  - Pattern matching
+  - Gotos
 - Functions and modules
+  - Parameters
+  - Return types: single return, multiple returns, named return
+  - Recursive calls
+  - Closures
+  - Module definitions
+  - Exporting from a file
+  - Importing from a file
+- Generics
+  - Definitions
+  - Constraints
 - Error handling
+  - Raising errors
+  - Catching errors
+  - Propagating errors
+  - Defining custom errors
 - Standard I/O
+  - Printing to `stdout`
+  - Printing to `stderr`
+  - Reading from `stdin`
+  - Output formatting
 - DS&A
+  - Stack
+  - Queue
+  - Linked list
+  - Sorting
 - Enums
+  - Definition
+  - Values
+  - Underlying representation
 - Object-oriented programming
+  - Structs
+  - Classes
+  - Inheritance
+  - Polymorphism
+  - Interfaces
 - File I/O
+  - Reading from files
+  - Writing to files
+  - Appending to files
 - JSON
+  - Deserialization (from JSON string)
+  - Serialization (to JSON string)
 - Testing
+  - Unit testing
+  - Assertions
 - Standard library tour
+  - Random generation
+  - String manipulation
 - Libraries and frameworks
+  - Package management
+  - Popular libraries and frameworks
 - Multithreading and concurrency
+  - Threads
+  - Channels
+  - Async
